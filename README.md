@@ -1,7 +1,7 @@
 # FRYO-FRYO_SCDFXIBM
 
-## Team FRYO
-### Members:
+# Team FRYO
+## Members:
 
 #### Muskaan:
 Muskaan is 17 and loves to read and enjoys experimentation and learning new things. She prides herself on her knack for writing and is undeniably a potterhead. Having been in the student council for two consecutive years in her previous school, Muskaan revels in her ability to organize events and communicate effectively.  Her problem solving approach has helped her ace two international trade challenges. She strongly believes this idea of a flood relief system can aid Singapore in becoming better equipped at dealing with flood emergencies.
@@ -18,3 +18,15 @@ By The Conscious Living. The high risks of flood in lower coastal areas that thr
 
 #### Mahek:  
 Mahek has a strong academic background evidenced by her diverse aptitude in literature and physics. Her involvement in youth leadership programs has led her to gain insights from experienced individuals. Having held leadership positions in multiple projects such as Project FoodTree, GIIS Sustainability Talks podcast as well as heading the Climate Action club, she believes in the power of experience. The prospects and applications of AI in the future intrigue her and she loves to trod down the path of exploration to educate herself more through challenges like these. She finds the FRYO solution promising and wishes to support the cause of better disaster management in Singapore.
+
+## Meaning of FRYO:
+FRYO is an acronym for Flood Relief Youth Operations which successfully summarizes the team’s aim of providing assistance to people in flood prone areas by modelling a technological solution to tackle the problem of flash floods in Singapore. It also refers to an internal joke among the team mates which corresponds to the answer to the deductive statement: ‘A group of three is considered a trio, then a group of five should be fryo.’ 
+
+## Getting started:
+This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
+
+To check if you are in the proximity of a potential flood region, all you have to do is click on the button which says 'Click to check flood exposure'. This will tell you if your are in danger of a flood and if you are, the safest route out of that area.
+
+For now, since we do not currently have access to the water level sensors installed by PUB, we currently have fake threat coordinates which are **Latitude: 1.39267** and **Longitude: 103.8221315**. 
+
+To run a test and check if the app actually works, you can change the values of the variables lat and long in the file to something close to the fake coordinates to see how it would respond if there were an actual threat.
