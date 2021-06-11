@@ -20,7 +20,21 @@ By The Conscious Living. The high risks of flood in lower coastal areas that thr
 Mahek has a strong academic background evidenced by her diverse aptitude in literature and physics. Her involvement in youth leadership programs has led her to gain insights from experienced individuals. Having held leadership positions in multiple projects such as Project FoodTree, GIIS Sustainability Talks podcast as well as heading the Climate Action club, she believes in the power of experience. The prospects and applications of AI in the future intrigue her and she loves to trod down the path of exploration to educate herself more through challenges like these. She finds the FRYO solution promising and wishes to support the cause of better disaster management in Singapore.
 
 ## Meaning of FRYO:
-FRYO is an acronym for Flood Relief Youth Operations which successfully summarizes the team’s aim of providing assistance to people in flood prone areas by modelling a technological solution to tackle the problem of flash floods in Singapore. It also refers to an internal joke among the team mates which corresponds to the answer to the deductive statement: ‘A group of three is considered a trio, then a group of five should be fryo.’ 
+FRYO is an acronym for Flood Relief Youth Operations which successfully summarizes the team’s aim of providing assistance to people in flood prone areas by modelling a technological solution to tackle the problem of flash floods in Singapore. 
+
+It also refers to an internal joke among the team mates which corresponds to the answer to the deductive statement: ‘A group of three is considered a trio, then a group of five should be fryo.’ 
+
+## The problem we're tackling:
+There has been a steady increase in the number of flash flood events in Singapore. Flash floods are most often caused by heavy or excessive precipitation in a short period of time. In such a situation, technology can be put to use by alerting people in the flooded regions (and people in nearby areas) about the risen water levels and suggesting the safest routes out of those regions. 
+
+Our proposed software FRYO (Flood Relief Youth Operation) aims to promote flash flood preparedness by:
+1. Sending alert messages to people in flooded regions (their locations determined by end-to-end encrypted GPS trackers)
+2. Suggesting safe routes out/away from the flooded regions using a combination of  real-time data and historical data
+3. Providing guidelines to be followed during flash floods to educate the general public and enhance preparedness on an individual level. 
+We hope that through these efforts, the response time is minimised and there’s less requirement for assistance.
+
+## Architecture:
+
 
 ## Getting started:
 This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
