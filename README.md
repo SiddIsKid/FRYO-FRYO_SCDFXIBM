@@ -51,6 +51,8 @@ The second limitation is that the safest route is calibrated based on decreasing
 
 The third limitation we have is that this is a website and not an app which wouldn't really help in times of natural disaster because people wouldn't go to a website if they were in such a situation. To overcome this, we are planning to turn this website into an app using the framework that we already have built.
 
+Using the framework submitted, it is possible to develop the entire software (with AI integrated in it) in maximum a month. Provided the software is allowed to access the databases required. The fact that it’s possible to provide an almost immediate solution enhances FRYO’s schedule feasibility.
+
 ## Getting started:
 This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
 
