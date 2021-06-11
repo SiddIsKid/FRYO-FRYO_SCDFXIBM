@@ -52,7 +52,7 @@ To check if you are in the proximity of a potential flood region, all you have t
 
 For now, since we do not currently have access to the water level sensors installed by PUB, we currently have fake threat coordinates which are **Latitude: 1.39267** and **Longitude: 103.8221315**. 
 
-To run a test and check if the app actually works, you can change the values of the variables lat and long on lines 37 and 38 respectively in the fryoAlerts.js file to something close to the fake coordinates to see how it would respond if there were an actual threat.
+To run a test and check if the app actually works, you can change the values of the variables lat and long on lines 37 and 38 respectively in the fryoAlerts.js javascript file to something close to the fake coordinates to see how it would respond if there were an actual threat.
 
 ## Tools used
 We used html, css and javascript to code the webpage, the built in Geolocation API to find the user's coordinates and Firebase as the back-end database to store the coordinates of both the threat locations and the user's location
