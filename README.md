@@ -34,7 +34,16 @@ Our proposed software FRYO (Flood Relief Youth Operation) aims to promote flash 
 We hope that through these efforts, the response time is minimised and there’s less requirement for assistance.
 
 ## Architecture:
+The problem statement we've chosen is:
+*How might we leverage technology to better predict and prepare for the foreseeably higher frequency and greater severity of extreme weather events and natural disasters?*
 
+The number of people with access to technology like smartphones is growing by the day, and we must use this to our advantage. Since the majority of the population has smartphones now, and the number of people that don't is reducing, we could use the smartphones as an alert device to give alerts in times of natural disasters.
+
+The threat posed by the prospective increase in rainfall as a result of climate change calls for a multi-faceted solution. The solution that has been generated with the united efforts of all the team members is presented in the form of an app called Flood Relief Youth Operation (FRYO). FRYO addresses the aforementioned problem on three different fronts:
+
+Firstly, if and when the water levels at any location rise beyond the safety threshold, a message - alerting the users of the development - will be sent through an encrypted GPS tracker built within the app. Along with this, by utilizing real-time inputs from PUB installed cameras and water sensors, the app would calibrate the safest route for the vehicles to evacuate low-lying areas as an effort to decrease the response time to floods while simultaneously preventing traffic jams and road accidents. Last but not least, the app would provide guidelines to be followed during floods to educate the general public and prepare them for diverse circumstances. 
+
+This protocol is extremely feasable because we are using existing sensors installed by PUB to get the location of areas that might be prone to floods. There is minimal to no external hardware attachments required and all that would have to change would be on the software side of the sensors. 
 
 ## Getting started:
 This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
