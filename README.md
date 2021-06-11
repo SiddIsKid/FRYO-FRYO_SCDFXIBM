@@ -53,6 +53,9 @@ The third limitation we have is that this is a website and not an app which woul
 
 Using the framework submitted, it is possible to develop the entire software (with AI integrated in it) in maximum a month. Provided the software is allowed to access the databases required. The fact that it’s possible to provide an almost immediate solution enhances FRYO’s schedule feasibility.
 
+## Detailed solution
+https://docs.google.com/document/d/18PHeeNHxLDVpO7-OSIqx_3LcgZw3oUohMBPtmriINTc/edit?usp=sharing
+
 ## Getting started:
 This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
 
