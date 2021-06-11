@@ -24,6 +24,9 @@ FRYO is an acronym for Flood Relief Youth Operations which successfully summariz
 
 It also refers to an internal joke among the team mates which corresponds to the answer to the deductive statement: ‘A group of three is considered a trio, then a group of five should be fryo.’ 
 
+## Pitch Video: 
+https://youtu.be/Su2JbeFIArE
+
 ## The problem we're tackling:
 There has been a steady increase in the number of flash flood events in Singapore. Flash floods are most often caused by heavy or excessive precipitation in a short period of time. In such a situation, technology can be put to use by alerting people in the flooded regions (and people in nearby areas) about the risen water levels and suggesting the safest routes out of those regions. 
 
@@ -53,7 +56,7 @@ The third limitation we have is that this is a website and not an app which woul
 
 Using the framework submitted, it is possible to develop the entire software (with AI integrated in it) in maximum a month. Provided the software is allowed to access the databases required. The fact that it’s possible to provide an almost immediate solution enhances FRYO’s schedule feasibility.
 
-## Detailed solution
+## Detailed solution:
 https://drive.google.com/file/d/1PsiktTjxeAFB67T6bxH7-6YdLzk16OcL/view
 
 ## Getting started:
