@@ -19,7 +19,7 @@ By The Conscious Living. The high risks of flood in lower coastal areas that thr
 #### Mahek:  
 Mahek has a strong academic background evidenced by her diverse aptitude in literature and physics. Her involvement in youth leadership programs has led her to gain insights from experienced individuals. Having held leadership positions in multiple projects such as Project FoodTree, GIIS Sustainability Talks podcast as well as heading the Climate Action club, she believes in the power of experience. The prospects and applications of AI in the future intrigue her and she loves to trod down the path of exploration to educate herself more through challenges like these. She finds the FRYO solution promising and wishes to support the cause of better disaster management in Singapore.
 
-## Meaning of FRYO:
+## What is FRYO?:
 FRYO is an acronym for Flood Relief Youth Operations which successfully summarizes the team’s aim of providing assistance to people in flood prone areas by modelling a technological solution to tackle the problem of flash floods in Singapore. 
 
 It also refers to an internal joke among the team mates which corresponds to the answer to the deductive statement: ‘A group of three is considered a trio, then a group of five should be fryo.’ 
