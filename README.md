@@ -45,6 +45,12 @@ Firstly, if and when the water levels at any location rise beyond the safety thr
 
 This protocol is extremely feasable because we are using existing sensors installed by PUB to get the location of areas that might be prone to floods. There is minimal to no external hardware attachments required and all that would have to change would be on the software side of the sensors. 
 
+However, we do have certain limitations. The first problem we encountered was that some users might not be comfortable with sharing their location actively with the app. To overcome this, we made sure to use an encrypted database so that no one other than the user and the server could read the user's location.
+
+The second limitation is that the safest route is calibrated based on decreasing order of water levels in various locations and not with AI. However, we do plan to overcome this problem by integrating AI using python and making it calibrate the safest route based on other factors like time and reachability.
+
+The third limitation we have is that this is a website and not an app which wouldn't really help in times of natural disaster because people wouldn't go to a website if they were in such a situation. To overcome this, we are planning to turn this website into an app using the framework that we already have built.
+
 ## Getting started:
 This is a simple web application, so there is no setup required at all. All you have to do is download the code files, go to the public folder and open index.html which will take you to the FRYO webpage. 
 
